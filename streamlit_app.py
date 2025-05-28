@@ -2,7 +2,7 @@ import streamlit as st
 
 st.set_page_config(page_title="Difficult Airway Risk Calculator", layout="centered")
 
-st.title("🫁 Difficult Airway Risk Calculator")
+st.title("🫁 Quantitative Airway Assessment Tool")
 
 # Define the scoring criteria
 criteria = {
