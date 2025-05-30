@@ -22,7 +22,7 @@ criteria = {
     "Cervical Spine Mobility": {"Full": 0, "Moderately Limited": 10, "Severely Limited": 15},
     "ASA": {"1": 0, "2": 5, "3": 10, "4": 10},
     "Congenital Facial Abnormalities": {"Yes": 10, "No": 0},
-    "Airway Obstruction (i.e, tumor, bleeding, etc)" : {"Yes": 10, "No: 0"},
+    "Airway Obstruction (i.e, tumor, bleeding, etc)" : {"Yes": 10, "No": 0},
     "Facial/Neck Trauma": {"Yes": 10, "No": 0},
 }
 
